@@ -1,0 +1,10 @@
+﻿  game.c
+C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\game.c(14,19): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\game.c(176,43): warning C4013: 'computer_desision'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\game.c(353,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\game.c(631,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.c
+  util.c
+  코드를 생성하고 있습니다...
+C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\game.c(28): warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  c게임프로그램.vcxproj -> C:\Users\admin\Desktop\학교 수업\1-2\고급C프로그래밍\C프로그래밍 리펙토링 전\Debug\c게임프로그램.exe
